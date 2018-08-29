@@ -1,0 +1,5 @@
+﻿  main.cpp
+  test.cpp
+d:\visual studio 2017\projects\test_order_algorithm\test.cpp(16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  test_order_algorithm.vcxproj -> D:\Visual Studio 2017\Projects\test_order_algorithm\Debug\test_order_algorithm.exe
